@@ -5,7 +5,11 @@
 ## Introduction
 Dalam era kesehatan modern, pemahaman mendalam terhadap faktor-faktor yang mempengaruhi tagihan kesehatan menjadi krusial. Analisis ini tidak hanya mencakup berbagai faktor seperti kebiasaan merokok, indeks massa tubuh (BMI), dan jumlah tanggungan anak, tetapi juga mengeksplorasi variabilitas yang ada dalam tagihan kesehatan. Dalam penelitian ini, kita akan memperdalam wawasan tentang bagaimana keputusan sehari-hari, seperti kebiasaan merokok, berhubungan dengan tagihan kesehatan. Selain itu, proyek ini bertujuan untuk memberikan pemahaman yang komprehensif tentang sejauh mana faktor-faktor ini berkontribusi terhadap perbedaan dalam tagihan kesehatan. Melalui analisis yang mendalam, kita berusaha menjawab pertanyaan kritis terkait variabilitas dan pengaruh faktor-faktor tertentu dalam konteks tagihan kesehatan.
 
-> *Sumber [dataset](https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D11cQ8CxIhBmajxVOlGCPH98x4sAIwKIeJ&sa=D&source=apps-viewer-frontend&ust=1704510678622707&usg=AOvVaw2ir3M7D6SYiMpzE1JrpZ2F&hl=en)*
+> ### *Sumber [dataset](https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D11cQ8CxIhBmajxVOlGCPH98x4sAIwKIeJ&sa=D&source=apps-viewer-frontend&ust=1704510678622707&usg=AOvVaw2ir3M7D6SYiMpzE1JrpZ2F&hl=en)*
+
+![img](img/health_charges.jpg)
+
+(Photo by <a href="https://unsplash.com/@jccards?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marek Studzinski</a> on <a href="https://unsplash.com/photos/silver-and-black-stethoscope-on-100-indian-rupee-bill-dInhWDrw38E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
 
 ## Research Question
 ### 1. Analisa Descriptive Statistic
