@@ -890,9 +890,62 @@ Dalam era kesehatan modern, pemahaman mendalam terhadap faktor-faktor yang mempe
 
   - Tolak Hipotesis nol (H0)
   - Tagihan kesehatan dengan BMI di atas 25 lebih tinggi daripada BMI di bawah 25
+ 
+## Kesimpulan
 
-  
+Analisis Descriptive Statistic:
 
+- Rata-rata umur pada dataframe adalah 39.22 tahun.
+- Rata-rata BMI perokok adalah 30.71.
+- Variansi tagihan perokok lebih besar dibanding non-perokok (133207311.21 vs. 35925420.50).
+- Tidak ada perbedaan umur yang signifikan antara pria perokok dan wanita perokok.
+- Rata-rata tagihan perokok jauh lebih besar dari rata-rata tagihan non-perokok.
+- Rata-rata tagihan perokok yang BMI diatas 25 jauh lebih besar dari rata-rata tagihan non-perokok yang BMI diatas 25.
+- Tidak ada perbedaan yang signifikan antara rata-rata BMI perokok dan BMI non-perokok.
+
+Analisis Variabel Diskrit:
+
+- Rata-rata tagihan kesehatan pria lebih besar dibandingkan wanita.
+- Distribusi peluang tagihan tertinggi ada di region Southeast.
+- Proporsi perokok lebih rendah daripada non-perokok.
+- Peluang seorang perempuan adalah perokok sekitar 8.60%, sedangkan peluang seorang laki-laki adalah perokok sekitar 11.89%.
+- Distribusi tagihan keempat region adalah Positively Skewed.
+
+Analisis Variabel Kontinu:
+
+- Peluang seseorang dengan BMI diatas 25 mendapatkan tagihan diatas 16.7k lebih besar daripada seseorang dengan BMI dibawah 25.
+- Peluang perokok dengan BMI diatas 25 mendapatkan tagihan diatas 16.7k lebih besar daripada non-perokok.
+
+Analisis Korelasi Variabel:
+
+- Korelasi positif antara tagihan kesehatan dan BMI, tetapi hubungannya lemah.
+- Korelasi positif antara tagihan kesehatan dan jumlah tanggungan anak, tetapi hubungannya lemah.
+
+Pengujian Hipotesis:
+
+- Terdapat perbedaan yang signifikan antara tagihan kesehatan perokok dan non-perokok (Tolak H0).
+- Variansi tagihan kesehatan perokok tidak sama dengan tagihan kesehatan non-perokok (Tolak H0).
+- Tagihan kesehatan dengan BMI di atas 25 lebih tinggi daripada tagihan kesehatan dengan BMI di bawah 25 (Tolak H0).
+
+### *Kesimpulan Umum:*
+
+- Tagihan kesehatan sangat dipengaruhi oleh kebiasaan merokok, BMI diatas 25, dan jenis kelamin.
+- Rata-rata tagihan perokok lebih tinggi, dan variansinya juga lebih besar dibandingkan non-perokok.
+- Individu dengan BMI diatas 25 cenderung memiliki tagihan kesehatan yang lebih tinggi.
+- Hubungan antara tagihan kesehatan dengan umur dan jumlah tanggungan anak lemah.
+- Diperlukan langkah-langkah pencegahan dan edukasi kesehatan, terutama pada kelompok risiko tinggi seperti perokok dan individu dengan BMI tinggi.
+
+## Further Research
+
+Berdasarkan analisis yang telah dilakukan, saran perbaikan dapat melibatkan fokus pada faktor-faktor yang signifikan memengaruhi tagihan kesehatan, seperti merokok, BMI diatas 25, dan jenis kelamin. Perluasan analisis dapat mencakup pemahaman lebih mendalam terkait faktor-faktor tersebut, mungkin dengan mempertimbangkan variabel tambahan atau memeriksa interaksi antar variabel. Selain itu, dalam mendalami korelasi, bisa dilakukan analisis lebih lanjut untuk mengevaluasi hubungan potensial antara variabel kesehatan dan variabel lainnya seperti gaya hidup dan riwayat kesehatan. Implementasi langkah-langkah pencegahan dan kampanye edukasi kesehatan dapat direkomendasikan, khususnya untuk kelompok risiko tinggi seperti perokok dan individu dengan BMI tinggi.
+
+## Reference
+
+LMS Pacmann - Probability
+
+### Terima kasih telah meluangkan waktu untuk membaca tulisan ini.
+
+Saya sedang belajar menulis, dan jika ada kesalahan maka tidak mungkin bisa saya dihindari bahkan ketika saya sudah berusaha sekuat tenaga. Silakan berikan feedback dan rekomendasi. Beri tahu saya jika Anda menemukan kesulitan atau kesalahan
   
       
       
