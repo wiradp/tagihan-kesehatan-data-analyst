@@ -943,9 +943,9 @@ Berdasarkan analisis yang telah dilakukan, saran perbaikan dapat melibatkan foku
 
 LMS Pacmann - Probability
 
-### Terima kasih telah meluangkan waktu untuk membaca tulisan ini.
-
-Saya sedang belajar menulis, dan jika ada kesalahan maka tidak mungkin bisa saya dihindari bahkan ketika saya sudah berusaha sekuat tenaga. Silakan berikan feedback dan rekomendasi. Beri tahu saya jika Anda menemukan kesulitan atau kesalahan
+>### Terima kasih telah meluangkan waktu untuk membaca tulisan ini.
+>
+> Saya sedang belajar menulis, dan jika ada kesalahan maka tidak mungkin bisa saya dihindari bahkan ketika saya sudah berusaha sekuat tenaga. Silakan berikan feedback dan rekomendasi. Beri tahu saya jika Anda menemukan kesulitan atau kesalahan
   
       
       
