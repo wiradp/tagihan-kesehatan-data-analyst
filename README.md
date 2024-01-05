@@ -62,6 +62,8 @@ Dalam era kesehatan modern, pemahaman mendalam terhadap faktor-faktor yang mempe
     - Identify duplicate data
     - Other checks required
 3. Explorating Data and Analysis
+4. Kesimpulan
+    - Mengambil insight dari analisa yang telah dibuat
 
 ## _*Mari kita mulai pengerjaan projectnya*_
 
@@ -83,20 +85,21 @@ Dalam era kesehatan modern, pemahaman mendalam terhadap faktor-faktor yang mempe
         # Overview dataframe
         df.head()  # Menampilkan 5 baris pertama dari dataframe untuk mendapatkan gambaran awal
 
-    tampilkan img overview df
+    ![viz](img/overview_df.png)
 
         # Overview info dataframe
         # Untuk melihat lebih jauh tipe-tipe data pada setiap kolom
         df.info()  # Menampilkan informasi singkat tentang struktur dataframe, termasuk tipe data dan jumlah nilai non-null
 
-    tampilkan df.info
+    ![viz](img/df_info.png)
 
 ## 2. Exploration and Processing
   - Identifikasi Nilai NaN (missing value)
 
         # Cek nilai NaN pada dataframe
         df.isna().sum()  # Menampilkan jumlah nilai NaN (missing values) untuk setiap kolom
-    Tampilkan df.info
+    ![viz](img/nan_value.png)
+    
     Terlihat tidak ada nilai kosong (NaN) pada dataframe
 
   - Identifikasi Nilai Duplikat
@@ -104,7 +107,8 @@ Dalam era kesehatan modern, pemahaman mendalam terhadap faktor-faktor yang mempe
         # Cek nilai duplikat pada dataframe
         df[df.duplicated(keep=False)]  # Menampilkan baris yang merupakan duplikat, dengan menandai semua entri duplikat
 
-      tampilkan nilai duplikat
+      ![viz](img/duplikat_value.png)
+    
       - Terlihat ada 2 baris data dengan nilai yang sama, kita asumsikan hal ini adalah nilai duplikat
       - Maka kita hapus baris terakhir pada baris tersebut
 
@@ -891,7 +895,7 @@ Dalam era kesehatan modern, pemahaman mendalam terhadap faktor-faktor yang mempe
   - Tolak Hipotesis nol (H0)
   - Tagihan kesehatan dengan BMI di atas 25 lebih tinggi daripada BMI di bawah 25
  
-## Kesimpulan
+## 4. Kesimpulan
 
 Analisis Descriptive Statistic:
 
