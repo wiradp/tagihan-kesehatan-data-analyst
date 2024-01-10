@@ -943,6 +943,17 @@ Pengujian Hipotesis:
 - Hubungan antara tagihan kesehatan dengan umur dan jumlah tanggungan anak lemah.
 - Diperlukan langkah-langkah pencegahan dan edukasi kesehatan, terutama pada kelompok risiko tinggi seperti perokok dan individu dengan BMI tinggi.
 
+## **Teorema Bayes** 
+
+Suatu teorema dalam probabilitas yang memberikan cara untuk memperbarui probabilitas suatu peristiwa berdasarkan informasi baru yang diterima. Teorema ini dinamai dari matematikawan Inggris, Thomas Bayes, yang pertama kali mengembangkannya. Teorema Bayes umumnya digunakan dalam konteks statistika dan analisis probabilitas untuk menghitung probabilitas suatu peristiwa dengan mempertimbangkan informasi tambahan.
+
+Aplikasi Teorema Bayes dalam Analisis Tagihan Kesehatan:
+
+- Peluang Perokok atau Non-Perokok Berdasarkan Jenis Kelamin
+- Peluang BMI Tinggi atau Rendah Berdasarkan Kebiasaan Merokok
+- Peluang Tagihan Tinggi atau Rendah Berdasarkan Region
+
+
 ## Further Research
 
 Berdasarkan analisis yang telah dilakukan, saran perbaikan dapat melibatkan fokus pada faktor-faktor yang signifikan memengaruhi tagihan kesehatan, seperti merokok, BMI diatas 25, dan jenis kelamin. Perluasan analisis dapat mencakup pemahaman lebih mendalam terkait faktor-faktor tersebut, mungkin dengan mempertimbangkan variabel tambahan atau memeriksa interaksi antar variabel. Selain itu, dalam mendalami korelasi, bisa dilakukan analisis lebih lanjut untuk mengevaluasi hubungan potensial antara variabel kesehatan dan variabel lainnya seperti gaya hidup dan riwayat kesehatan. Implementasi langkah-langkah pencegahan dan kampanye edukasi kesehatan dapat direkomendasikan, khususnya untuk kelompok risiko tinggi seperti perokok dan individu dengan BMI tinggi.
@@ -951,8 +962,10 @@ Berdasarkan analisis yang telah dilakukan, saran perbaikan dapat melibatkan foku
 
 LMS Pacmann - Probability
 
->### Terima kasih telah meluangkan waktu untuk membaca tulisan ini.
->
+[Introduction to Mathematical Statistics](https://online.stat.psu.edu/stat415/)
+
+### *Terima kasih telah meluangkan waktu untuk membaca tulisan ini*
+
 > Saya sedang belajar menulis, dan jika ada kesalahan maka tidak mungkin bisa saya dihindari bahkan ketika saya sudah berusaha sekuat tenaga. Silakan berikan feedback dan rekomendasi. Beri tahu saya jika Anda menemukan kesulitan atau kesalahan
   
       
